@@ -14,7 +14,6 @@ h2{
 .row{
     text-align: center;
     padding: 10px;
-
 }
 
 .row [type="text"], [type="email"], [type="password"]{
